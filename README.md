@@ -1,4 +1,4 @@
-![image](https://github.com/brunohenderyckx/management-consulting-toolkit/assets/7734549/ff9114d2-9042-47b1-b63f-42854083cfe6)# Management Consulting Toolkit
+# Management Consulting Toolkit
 ## Overview
 
 Repository of essential management consulting skills and capabilities.
