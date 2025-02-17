@@ -87,7 +87,7 @@ Strong verbal and written communication skills are crucial. Consultants must be 
   * Ensuring client satisfaction
 
 ## 4. Project Management
-Management consultants often work on multiple projects with tight deadlines. Effective project management skills, including time management, organization, and prioritization, are essential.
+Effective project management skills, including time management, organization, and prioritization, are essential.
 
 ### Project Management Components
 * Time Management
@@ -125,7 +125,3 @@ We welcome contributions from strategy consultants and business analysts! Key ar
 * Python for Business Analysis
 * SQL for Strategic Analysis
 * Data Visualization Best Practices
-
----
-
-**Note**: This toolkit focuses on quantitative methods and analytical approaches used in strategic consulting while acknowledging the importance of soft skills in consulting work.
