@@ -72,7 +72,7 @@ Data analysis and being able to visualize insights are a consultant's bread and 
 Strong verbal and written communication skills are crucial. Consultants must be able to articulate their ideas clearly and persuasively to stakeholders at all levels, from junior staff to senior executives.
 
 ### Key Communication Areas
-* Data-Driven Presentations
+* [Give Data Heavy Presentations](https://hbr.org/2015/10/how-to-give-a-data-heavy-presentation) & [Creating & delivering effective data driven presentations](https://www.linkedin.com/pulse/creating-delivering-effective-data-driven-bill-franks/)
   * Hypothesis-evidence linking
   * Quantitative proof points
   * Action-oriented recommendations
@@ -81,10 +81,11 @@ Strong verbal and written communication skills are crucial. Consultants must be 
   * Key message quantification
   * Supporting analysis presentation
 * Stakeholder Management
-  * Building and maintaining client relationships
+  * Building and maintaining client relationships [Stakeholder Capital - BCG perspective](https://web-assets.bcg.com/img-src/file119020_tcm9-197714.pdf)
   * Understanding client needs
   * Managing expectations
   * Ensuring client satisfaction
+  * Stakeholder Mapping [Stakeholder Mapping](https://managementconsulted.com/stakeholder-analysis/)
 
 ## 4. Project Management
 Effective project management skills, including time management, organization, and prioritization, are essential.
