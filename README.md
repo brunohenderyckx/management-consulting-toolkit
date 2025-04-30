@@ -21,7 +21,8 @@ Consultants must systematically dissect complex business problems. This involves
 **Hypothesis-Driven Approach:** Formulate an initial, educated guess (hypothesis) about the solution and gather data specifically to test it. Iterate if the hypothesis is disproven.
 - Resource: [The BCG and McKinsey problem solving process - A step-by-step guide](https://slideworks.io/resources/mckinsey-problem-solving-process)
 - Resource: [McKinsey - How to master the seven-step problem-solving process](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-master-the-seven-step-problem-solving-process)
-- Resource: Paper: Distilling the Essence of the McKinsey* Way: The Problem-Solving Cycle](https://moodle.novasbe.pt/pluginfile.php/667877/mod_resource/content/2/Chia%5EJ%20Austin%20%282020%29.pdf)
+- Resource: Paper: [Distilling the Essence of the McKinsey* Way: The Problem-Solving Cycle](https://moodle.novasbe.pt/pluginfile.php/667877/mod_resource/content/2/Chia%5EJ%20Austin%20%282020%29.pdf)
+- Resource: [Sloan: The Most Underrated Skill in Management - Clearly articulating the problem](https://sloanreview.mit.edu/article/the-most-underrated-skill-in-management/)
 - Resource: [My Consulting Offer: Hypothesis-Driven Approach](https://www.myconsultingoffer.org/case-study-interview-prep/hypothesis-driven-approach/)
 - Resource: https://www.myconsultingoffer.org/case-study-interview-prep/hypothesis-tree/
 - Resource(book): https://bulletproofproblemsolving.com/
@@ -136,6 +137,7 @@ Articulating ideas clearly and persuasively is crucial for driving client action
 - Stakeholder Mapping: Categorize stakeholders (e.g., Power/Interest grid) to prioritize engagement.
 - Resource: https://managementconsulted.com/stakeholder-analysis/
 - Resource: https://web-assets.bcg.com/img-src/file119020_tcm9-197714.pdf
+- Resource: [Paper: Stakeholder Management in Projects: Strategies for Effective Communication](https://www.researchgate.net/publication/383829650_Stakeholder_Management_in_Projects_Strategies_for_Effective_Communication)
 
 ## 4. Project & Team Management
 Effective project execution requires planning, organization, risk mitigation, and team leadership.
@@ -171,6 +173,7 @@ Analytical skills must be paired with an understanding of the broader business c
 
 **Industry Analysis (Porter's Five Forces):** Analyze competitive rivalry, threat of new entrants, threat of substitutes, and bargaining power of buyers and suppliers to understand industry structure and attractiveness.
 - Resource: [Investopedia: Porter's Five Forces Explained](https://www.investopedia.com/terms/p/porter.asp)
+- Resource: [Business Acumen – Step-by-Step Guide to Improve It](https://firmsconsulting.com/business-acumen/)
 
 **Company Analysis (SWOT):** Assess internal Strengths & Weaknesses and external Opportunities & Threats to inform strategy.
 - Resource: https://www.investopedia.com/terms/s/swot.asp
